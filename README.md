@@ -37,5 +37,5 @@ winget install GnuWin32.Make
 * Note: See .env file for editable path and env_path information.
 
 ``` ps1
-python -m venv 'S:\Version_Control\RinPython\venv'
+python -m venv 'Path-to-project-root-directory'
 ```
