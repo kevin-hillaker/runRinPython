@@ -1,4 +1,4 @@
-# RinPython
+# runRinPython
 
 ## Description
 
