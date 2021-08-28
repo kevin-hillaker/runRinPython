@@ -20,6 +20,7 @@ Example of running R code within Python using VS Code.
 
 * Windows Terminal
 * Python
+* R
 * Visual Studio Code
 * GitHub for Windows
 
